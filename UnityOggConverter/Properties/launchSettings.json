@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UnityOggConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Projects\\CottageDefense\\Assets\\Sounds"
+    }
+  }
+}
